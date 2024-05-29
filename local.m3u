@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml.gz,https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/az.xml.gz,https://iptv-org.github.io/epg/guides/cy.xml.gz,https://iptv-org.github.io/epg/guides/cz.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/pk.xml.gz"
+#EXTINF:-1 tvg-id="SKY Sports 2 HD" tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png" group-title="Sports",SKY Sports 2 HD
+http://192.168.100.254:8080/memfs/77444917-787f-406b-94d7-a4c03aa2776b.m3u8
+#EXTINF:-1 tvg-id="A Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A Sports HD
+http://blurfirewall.duckdns.org:8081/memfs/00b7aac9-9799-4c27-877d-d3526ea53eee.m3u8
