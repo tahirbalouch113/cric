@@ -1,14 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/af.xml.gz,https://iptv-org.github.io/epg/guides/ao.xml.gz,https://iptv-org.github.io/epg/guides/ar.xml.gz,https://iptv-org.github.io/epg/guides/az.xml.gz,https://iptv-org.github.io/epg/guides/cy.xml.gz,https://iptv-org.github.io/epg/guides/cz.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/pk.xml.gz"
-
 #EXTINF:-1 tvg-id="SKY Sports 2 HD" tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png" group-title="Sports",SKY Sports 2 HD
 http://starshare.live:8080/live/Tahirbhai008/2272200/1856.ts
 #EXTINF:-1 tvg-id="Willow Cricket" tvg-logo="https://banner2.cleanpng.com/20180614/rv/kisspng-television-channel-indian-premi-5b22148674c497.5024822115289601344783.jpg" group-title="Sports",Willow Cricket
 http://starshare.live:8080/live/Hamzanasir390/2272200/23943.ts
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png" group-title="Sports",Fox Sports
 http://starshare.live:8080/live/10401004/78900987/1856.ts
-
-#EXTINF:-1 tvg-id="Live Sports" tvg-logo="https://via.placeholder.com/150?text=Live+Sports" group-title="Live Sports",Your Video Title
-https://drive.usercontent.google.com/download?id=16_jhW4lHL1rhgcGuars0bvi-vAGBb6bi&export=download&authuser=2&confirm=t&uuid=64892707-ccce-46e3-9964-f7ff79c5a95c&at=APvzH3pF-tYCAbHQOharOMW2luiy:1736295325455
-
-#EXTINF:-1 tvg-id="Bigg Boss S18E93" tvg-logo="https://via.placeholder.com/150?text=Bigg+Boss+Season+18" group-title="TV Shows",Bigg Boss Season 18 Episode 93
-https://drive.usercontent.google.com/download?id=16_jhW4lHL1rhgcGuars0bvi-vAGBb6bi&export=download&authuser=2&confirm=t&uuid=64892707-ccce-46e3-9964-f7ff79c5a95c&at=APvzH3pF-tYCAbHQOharOMW2luiy:1736295325455
