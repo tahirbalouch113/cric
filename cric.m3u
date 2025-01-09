@@ -10,7 +10,7 @@ http://starshare.live:8080/live/10401004/78900987/1856.ts
 
 # Movies
 #EXTINF:-1 tvg-id="Kill (2024)" tvg-name="Kill 2024" tvg-logo="https://image.tmdb.org/t/p/w185/52tSovUH1w9cp4gzGNThaT4pQW.jpg" group-title="Movies",Kill (2024)
-https://drive.usercontent.google.com/download?id=1zQ-PVmui7HCkMUru563tnEYnJ0xR0OIK&export=download&authuser=2&confirm=t&uuid=9bed5295-36e3-49f0-95ab-04a15a075716&at=AIrpjvM1JvPuY3l2acF-zjfuqF-t:1736383366243
+https://www.googleapis.com/drive/v3/files/16dD8WWyb7sLuU5l-TWtxZCE8NfH1oZ05?alt=media&key=AIzaSyAjLhgyYp607rVeT7fSEUHniI-vK21MW_4
 
 # Series - Bigg Boss Season 18
 #EXTINF:-1 tvg-id="Bigg Boss S18E93" tvg-logo="https://via.placeholder.com/150?text=Bigg+Boss+Season+18" group-title="Series>Bigg Boss Season 18",Bigg Boss Season 18 Episode 93
