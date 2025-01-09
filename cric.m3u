@@ -8,8 +8,9 @@ http://starshare.live:8080/live/Hamzanasir390/2272200/23943.ts
 #EXTINF:-1 tvg-id="Fox Sports" tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png" group-title="Live Channels>Sports",Fox Sports
 http://starshare.live:8080/live/10401004/78900987/1856.ts
 
-#EXTINF:-1 tvg-id="Live Sports" tvg-logo="https://via.placeholder.com/150?text=Live+Sports" group-title="Live Channels>Sports",Your Video Title
-https://drive.usercontent.google.com/download?id=16_jhW4lHL1rhgcGuars0bvi-vAGBb6bi&export=download&authuser=2&confirm=t&uuid=64892707-ccce-46e3-9964-f7ff79c5a95c&at=APvzH3pF-tYCAbHQOharOMW2luiy:1736295325455
+# Movies
+#EXTINF:-1 tvg-id="Kill (2024)" tvg-name="Kill 2024" tvg-logo="https://image.tmdb.org/t/p/w185/52tSovUH1w9cp4gzGNThaT4pQW.jpg" group-title="Movies",Kill (2024)
+https://drive.usercontent.google.com/download?id=1zQ-PVmui7HCkMUru563tnEYnJ0xR0OIK&export=download&authuser=2&confirm=t&uuid=9bed5295-36e3-49f0-95ab-04a15a075716&at=AIrpjvM1JvPuY3l2acF-zjfuqF-t:1736383366243
 
 # Series - Bigg Boss Season 18
 #EXTINF:-1 tvg-id="Bigg Boss S18E93" tvg-logo="https://via.placeholder.com/150?text=Bigg+Boss+Season+18" group-title="Series>Bigg Boss Season 18",Bigg Boss Season 18 Episode 93
