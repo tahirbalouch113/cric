@@ -9,15 +9,3 @@ http://starshare.live:8080/live/Hamzanasir390/2272200/23943.ts
 
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png" group-title="Sports",Fox Sports
 http://starshare.live:8080/live/10401004/78900987/1856.ts
-
-# Movies
-#EXTINF:-1 tvg-id="Kill2024" tvg-name="Kill (2024)" tvg-logo="https://image.tmdb.org/t/p/w185/52tSovUH1w9cp4gzGNThaT4pQW.jpg" group-title="Movies",Kill (2024)
-https://www.googleapis.com/drive/v3/files/16dD8WWyb7sLuU5l-TWtxZCE8NfH1oZ05?alt=media&key=AIzaSyAjLhgyYp607rVeT7fSEUHniI-vK21MW_4
-
-# Series - Bigg Boss Season 18
-#EXTINF:-1 tvg-id="BiggBossS18E93" tvg-name="Bigg Boss Season 18 Episode 93" tvg-logo="https://via.placeholder.com/150?text=Bigg+Boss+Season+18" group-title="Series",Bigg Boss Season 18 Episode 93
-https://drive.usercontent.google.com/download?id=16_jhW4lHL1rhgcGuars0bvi-vAGBb6bi&export=download&authuser=2&confirm=t&uuid=46b1b934-b182-46c9-9028-884a322ee2c3&at=AIrpjvMYBPunQ0IeDoZeUC5s_4lb:1736384848829
-
-# Series - Bigg Boss Season 19
-#EXTINF:-1 tvg-id="BiggBossS19E01" tvg-name="Bigg Boss Season 19 Episode 1" tvg-logo="https://via.placeholder.com/150?text=Bigg+Boss+Season+19" group-title="Series",Bigg Boss Season 19 Episode 1
-http://starshare.live:8080/series/Hamzanasir390/2272200/410043.mp4
