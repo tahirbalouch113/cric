@@ -2,7 +2,7 @@
 
 # Live Channels - Sports
 #EXTINF:-1 tvg-id="SkySports2HD" tvg-name="Sky Sports 2 HD" tvg-logo="https://m.media-amazon.com/images/I/71t1XaIXBrL.png" group-title="Sports",Sky Sports 2 HD
-http://starshare.live:8080/live/Tahirbhai008/2272200/1856.ts
+http://38.102.124.94:8080/memfs/c9e52943-7872-4c7a-b29f-272ce160c21c.m3u8
 
 #EXTINF:-1 tvg-id="WillowCricket" tvg-name="Willow Cricket" tvg-logo="https://banner2.cleanpng.com/20180614/rv/kisspng-television-channel-indian-premi-5b22148674c497.5024822115289601344783.jpg" group-title="Sports",Willow Cricket
 http://starshare.live:8080/live/Hamzanasir390/2272200/23943.ts
