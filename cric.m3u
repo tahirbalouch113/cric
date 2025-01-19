@@ -9,3 +9,6 @@ http://starshare.live:8080/live/10401004/78900987/23943.ts
 
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png" group-title="Sports",Fox Sports
 http://starshare.live:8080/live/10401004/78900987/1856.ts
+
+#EXTINF:-1 tvg-id="Colors HD" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Sports",Colors HD
+http://starshare.live:8080/live/10401004/78900987/98851.ts
