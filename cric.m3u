@@ -8,7 +8,7 @@ http://5gtv.online:80/live/91819181/922129181/91910.ts
 http://38.102.124.94:8080/memfs/63ebed94-b266-4832-bc48-93b390493cd0.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports" tvg-logo="https://i.postimg.cc/5ymtqR2Q/Fox-Cricket.png" group-title="Sports",Fox Sports
-http://starshare.live:8080/live/10401004/78900987/1856.ts
+http://38.102.124.94:8080/memfs/63b54205-fd7f-47cc-8b7c-050bbfd27e4c.m3u8
 
 #EXTINF:-1 tvg-id="Colors HD" tvg-name="Colors HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Sports",Colors HD
 http://starshare.live:8080/live/10401004/78900987/98851.ts
